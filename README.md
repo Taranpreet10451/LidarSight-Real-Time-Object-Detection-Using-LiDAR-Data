@@ -40,6 +40,12 @@ This repository demonstrates how LiDAR sensor data can be transformed and interp
 - LiDAR Toolbox
 - Computer Vision Toolbox
 
+### 📥 Download KITTI Dataset
+
+You can download the KITTI LiDAR dataset from:
+
+🔗 [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
+
 ### Installation
 1. Clone the repository:
    ```bash
